@@ -1,0 +1,14 @@
+@charset "UTF-8";
+.container {
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+}
+.box {
+	background-color: #aef;
+	width: 400px;
+	padding: 2rem;
+	margin: 1rem;
+	box-sizing: border-box; 
+}
+
